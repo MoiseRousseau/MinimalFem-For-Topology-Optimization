@@ -107,4 +107,4 @@ prefix = "test/cantilever"
 ```
 
 After more processing with Paraview, the results is illustrated in the figure below:
-![Post-processing with Paraview](https://github.com/MoiseRousseau/MinimalFem-For-Topology-Optimization/blob/main/test/cantilever.png)
+![Post-processing with Paraview](https://github.com/MoiseRousseau/MinimalFem-For-Topology-Optimization/blob/master/test/cantilever.png)
